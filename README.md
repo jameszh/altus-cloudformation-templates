@@ -17,4 +17,6 @@ This create a general AWS VPC with the following Resources
 <a href="https://console.aws.amazon.com/cloudformation/home?#/stacks/new?&templateURL=https://s3.amazonaws.com/us-east-1-iac-865942846496/generic-vpc-stack/vpc-3by2-v2.yaml
 " target="_blank"><img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"></a>
 
-<a href="https://console.aws.amazon.com/cloudformation/designer/home?region=us-east-1&templateURL=https://s3.amazonaws.com/us-east-1-iac-865942846496/generic-vpc-stack/vpc-3by2-v2.yaml" target="_blank"><img src="https://s3.amazonaws.com/us-east-1-iac-865942846496/generic-vpc-stack/designer.png" width:100% alt="View in Designer"></a>
+<a href="https://console.aws.amazon.com/cloudformation/designer/home?region=us-east-1&templateURL=https://s3.amazonaws.com/us-east-1-iac-865942846496/generic-vpc-stack/vpc-3by2-v2.yaml" target="_blank">
+<img src="https://s3.amazonaws.com/us-east-1-iac-865942846496/generic-vpc-stack/designer.jpg" width:100% alt="View in Designer"></a>
+
